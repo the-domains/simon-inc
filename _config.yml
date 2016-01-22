@@ -1,7 +1,7 @@
 name: Simon Inc
 favicon: null
-layout_spectrum: 0.14117989549413323
-typography_spectrum: 0.7651291447691619
+layout_spectrum: 0.25304
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
