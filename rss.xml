@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Simon Inc]]></title>
+        <description><![CDATA[Simon Inc]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 22 Jan 2016 11:20:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OVERVIEW & PURPOSE]]></title>
+            <description><![CDATA[<article><h1>OVERVIEW & PURPOSE</h1><p>WINNING IN THE AGE OF THE CUSTOMER</p></article>]]></description>
+            <link>undefinedoverview-and-purpose/index.html</link>
+            <guid isPermaLink="false">d4b11595-0989-4e45-ab8c-232136af5378</guid>
+            <pubDate>Fri, 22 Jan 2016 11:19:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
